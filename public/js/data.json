@@ -1,0 +1,267 @@
+{
+"fewdProjects":
+            [
+             {
+             "id"     :"1",
+             "devType":"fewd",
+             "name"   :"Registration Form",
+             "url"    :"https://athenaozanich.github.io/online-registration-form/",
+             "repo"   :"https://github.com/athenaozanich/online-registration-form",
+             "img"    :
+                     [
+                        "formInfoSec.png",
+                        "formNewsLetterSec.png",
+                        "inputFocusState.png",
+                        "mobileLayout.png",
+                        "mobileLayout2.png"
+                     ],
+             "desc"   :"A mobile friendly registration form. Incorporated various html input types and associated attributes for form control. Form implements html5 form validations such as \"required\" and simple valid email check.",
+             "skills" :
+                     [
+                        "HTML",
+                        "CSS",
+                        "FORMS",
+                        "VALIDATION"
+                     ]
+             },
+             {
+             "id"     :"2",
+             "devType":"fewd",
+             "name"   :"Photo Gallery",
+             "url"    :"https://athenaozanich.github.io/photo_gallery/",
+             "repo"   :"https://github.com/athenaozanich/photo_gallery",
+             "img"    :
+                     [
+                        "photoGallery.png",
+                        "filteredGallery.png",
+                        "modalView.png"                        
+                     ],
+             "desc"   :"A mobile friendly interactive searchable photo gallery. Incorporated colorbox plugin for lightbox modal with \"in-View\" modal navigation. Wrote orginal JavaScript code for photo search filter which searched the caption and title for matching search text.",
+             "skills" :
+                     [
+                        "HTML",
+                        "CSS",
+                        "JAVSCRIPT",
+                        "JQUERY",
+                        "PLUGINS"
+                     ]
+             },
+             {
+             "id"     :"3",
+             "devType":"fewd",
+             "name"   :"Style Guide",
+             "url"    :"https://athenaozanich.github.io/style_guide_v3/",
+             "repo"   :"https://github.com/athenaozanich/style_guide_v3",
+             "img"    :
+                     [
+                        "styleGuide.png",
+                        "formAndTypography.png",
+                        "imagesAndButtons.png",
+                        "grid.png",
+                        "mobileNav.png",
+                        "mobileTypography.png",
+                        "mobileForm.png",
+                        "mobileImages.png",
+                        "mobileButtons.png",
+                        "mobileGrid.png"
+                     ],
+             "desc"   :"A mobile friendly style guide utilizing Sass for a mobile first responsive approach. Incorporated best practices for file structring as well as basic core concepts of targeting and dynamically styling elements. Worked with advanced Sass techniques to create poweful reusable AND scalable Sass.",
+             "skills" :
+                     [
+                        "HTML",
+                        "CSS",
+                        "SASS"
+                     ]
+             },
+             {
+             "id"     :"4",
+             "devType":"fewd",
+             "name"   :"Guessing Game",
+             "url"    :"https://athenaozanich.github.io/game_show_app_v1/",
+             "repo"   :"https://github.com/athenaozanich/game_show_app_v1",
+             "img"    :
+                     [
+                        "startGame.png",
+                        "startAnimation1.png",
+                        "startAnimation2.png",
+                        "animationEnd.png",
+                        "incorrectAndCorrectGuesses.png",
+                        "loss.png",
+                        "lossAnimation1.png",
+                        "lossAnimation2.png",
+                        "lossOverlay.png",
+                        "win.png",
+                        "winAnimation1.png",
+                        "winAnimation2.png",
+                        "winOverlay.png"
+
+                     ],
+             "desc"   :"Almost PURE JavaScript, this phrase guessing game incorporated aspects of DOM traversing and manipulation as well as logical loops. Utilizing JavaScript objects, arrays, strings and other data types with events to control and manipulate the DOM according to user interactions.",
+             "skills" :
+                     [
+                        "HTML",
+                        "CSS",
+                        "JAVASCRIPT",
+                        "SASS",
+                        "CSS ANIMATIONS"
+                     ]
+             },
+             {
+             "id"     :"5",
+             "devType":"fewd",
+             "name"   :"Web App Dash",
+             "url"    :"https://athenaozanich.github.io/web_app_dashboard_v2/",
+             "repo"   :"https://github.com/athenaozanich/web_app_dashboard_v2",
+             "img"    :
+                     [
+                        "adminDashboard.png",
+                        "notifications.png",
+                        "trafficMonth.png",
+                        "trafficHourly.png",
+                        "trafficWeekly.png",
+                        "trafficDaily.png",
+                        "dailyTraffic.png",
+                        "mobileUsers.png",
+                        "socStatsAndUsers.png",
+                        "emptyUserAlert.png",
+                        "autoComplete.png",
+                        "emptyMessAlert.png",
+                        "successAlert.png",
+                        "settings.png",
+                        "savedSettingsToLocStor.png"
+                     ],
+             "desc"   :"A mobile friendly Web App Dashboard. Incorporated Chart.js for inclusion of graphs and built custom widgets for displaying social media stats and recent user information. Implemented JavaScript form validation for messaging a user and local storage for saving preferences.",
+             "skills" :
+                     [
+                        "HTML",
+                        "CSS",
+                        "JAVASCRIPT",
+                        "PLUGINS",
+                        "CANVAS",
+                        "SASS",
+                        "local Storage",
+                        "field and form validation"
+                     ]
+             }
+            ],
+
+  "fsjsProjects":
+            [
+             {
+             "id"     :"1",
+             "devType":"fsjs",
+             "name"   :"Random Quote Generator",
+             "url"    :"https://athenaozanich.github.io/random-quote-generator/",
+             "repo"   :"https://github.com/athenaozanich/random-quote-generator",
+             "img"    :
+                     [
+                        "quote1.png",
+                        "quote2.png",
+                        "quote3.png"
+                     ],
+             "desc"   :"A fun random quote generator built utilizing pure javascript, html and css. Randomly create a new hex color for background and selects a quote from an array and adds it to the dom after a few seconds.",
+             "skills" :
+                     [
+                        "HTML",
+                        "CSS",
+                        "JAVASCRIPT",
+                        "SASS"
+                     ]
+             },
+             {
+             "id"     :"2",
+             "devType":"fsjs",
+             "name"   :"Javascript Pagination",
+             "url"    :"https://athenaozanich.github.io/pagination-and-filtering/",
+             "repo"   :"https://github.com/athenaozanich/pagination-and-filtering",
+             "img"    :
+                     [
+                        "unfilteredPg1.png",
+                        "unfilteredPg2.png",
+                        "unfilteredPg3.png",
+                        "onHoverOpacity.png",
+                        "filteredResults.png",
+                        "filteredPg3.png"
+                     ],
+             "desc"   :"A javscript driven pagination script allowing for pagination of large amounts of hardcoded html data and elements.",
+             "skills" :
+                     [
+                        "HTML",
+                        "CSS",
+                        "JAVASCRIPT"
+                     ]
+             },
+             {
+             "id"     :"3",
+             "devType":"fsjs",
+             "name"   :"Interactive Signup Form",
+             "url"    :"https://athenaozanich.github.io/interactive-form/",
+             "repo"   :"https://github.com/athenaozanich/interactive-form",
+             "img"    :
+                     [
+                        "form.png",
+                        "invalidEmail.png",
+                        "validEmail.png",
+                        "dynamicallyAddedInput.png",
+                        "designChoiceVal.png",
+                        "dynamicDisplayOfColorChoices1.png",
+                        "dynamicDisplayOfColorChoices2.png",
+                        "activityReg.png",
+                        "ActivityRegValAndcalc.png",
+                        "creditPayment.png",
+                        "payPalPayment.png",
+                        "bitcoinPayment.png",
+                        "creditCardVal.png",
+                        "creditCardSuccess.png"
+                     ],
+             "desc"   :"Pure Javascript, Html, and Css, this signup form is dynamically controlled, modified and validated based on user interaction to help improve the overall UI/UX of the form making it more user friendly than a standard html form with no javascript validation.",
+             "skills" :
+                     [
+                        "HTML",
+                        "CSS",
+                        "JAVASCRIPT"
+                     ]
+             },
+             {
+             "id"     :"4",
+             "devType":"fsjs",
+             "name"   :"JS-OOP Gameshow App",
+             "url"    :"https://athenaozanich.github.io/oop-game-show-app/",
+             "repo"   :"https://github.com/athenaozanich/oop-game-show-app",
+             "img"    :
+                     [
+                        "js_oopGameshow.png"
+                     ],
+             "desc"   :"Pure JavaScript, this phrase guessing game incorporated aspects of DOM traversing and manipulation as well as logical loops. Utilizing JavaScript objects, arrays, strings and other data types with events to control and manipulate the DOM according to user interactions. All of this is done using the Object Oriented Programming methodology and syntax.",
+             "skills" :
+                     [
+                        "HTML",
+                        "CSS",
+                        "JAVASCRIPT",
+                        "CSS ANIMATIONS"
+                     ]
+             },
+             {
+             "id"     :"5",
+             "devType":"fsjs",
+             "name"   :"JS Employee Directory",
+             "url"    :"https://athenaozanich.github.io/public-api-requests/",
+             "repo"   :"https://github.com/athenaozanich/public-api-requests",
+             "img"    :
+                     [
+                        "publicAPIRequest.png",
+                        "filteredResults.png",
+                        "modalView.png"
+                     ],
+             "desc"   :"This project is an employee directory with search filtering and modal displays for each randomly pulled employee from the randomuser.me public API",
+             "skills" :
+                     [
+                        "HTML",
+                        "CSS",
+                        "JAVASCRIPT",
+                        "PUBLIC API REQUESTS",
+                        "ASYNC/AWAIT"
+                     ]
+             }
+            ]
+}
